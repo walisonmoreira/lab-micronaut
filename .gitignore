@@ -1,0 +1,11 @@
+/.apt_generated/
+/.gradle/
+/.idea/
+/.settings/
+/.vscode/
+/bin/
+/build/
+/.classpath
+/.factorypath
+/.project
+/lab-micronaut.iml
