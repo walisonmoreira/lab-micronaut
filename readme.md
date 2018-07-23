@@ -218,6 +218,6 @@ Agora, ao iniciar novamente o Micronaut, o controlador responderá às requisiç
 
 ## Links
 
-* [Micronaut User Guide - Micronaut](https://docs.micronaut.io/latest/guide)
-* [Creating your first Micronaut app - Micronaut](http://guides.micronaut.io/creating-your-first-micronaut-app/guide)
-* [Getting started with Micronaut - Medium](https://medium.com/@jonashavers/getting-started-with-micronaut-595515985a98)
+* [Getting started with Micronaut](https://medium.com/@jonashavers/getting-started-with-micronaut-595515985a98)
+* [Micronaut User Guide](https://docs.micronaut.io/latest/guide)
+* [Creating your first Micronaut app](http://guides.micronaut.io/creating-your-first-micronaut-app/guide)
