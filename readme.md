@@ -1,6 +1,6 @@
 # Lab Micronaut
 
-Experimentos com o [Micronaut](http://micronaut.io).
+Experimentos com [Micronaut](http://micronaut.io).
 
 Micronaut é um framework projetado para construir clientes e servidores de microsserviços escritos em Java, Kotlin e Groovy. Como possui licença *Apache License v2*, permite uso comercial.
 
