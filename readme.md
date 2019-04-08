@@ -55,7 +55,7 @@ Atenção! Esse tutorial foi feito em julho de 2018. Pode ser que a forma de cri
 
 Antes de começar é necessário ter disponível o Java 8 ou superior. Esse projeto foi criado e testado com o Java 8.
 
-Para assegurar que o Java está instalado e configurado corretamente, abra um novo terminal do Windows e verifique a versão do Java, com o comando:
+Para assegurar que o Java está instalado e configurado corretamente, abra um novo terminal do Windows e verifique a versão do Java:
 
 ```
 java -version
@@ -75,14 +75,14 @@ Conforme o guia, existem algumas maneiras de instalar o Micronaut. Usaremos aqui
 
 Atenção! É possível que precise de direitos de administrador para criar pastas e definir variáveis de ambiente.
 
-* Obtenha o Micronaut em: [micronaut.io/download.html](http://micronaut.io/download.html). Faça o download do arquivo `micronaut-1.0.0.M2.zip`.
+* Faça o download do arquivo [`micronaut-1.0.0.zip`](https://github.com/micronaut-projects/micronaut-core/releases/download/v1.0.0/micronaut-1.0.0.zip).
 * Descompacte o conteúdo desse arquivo em algum diretório. `C:\micronaut`, por exemplo.
 * Defina no Windows a variável de ambiente `MICRONAUT_HOME` apontando para o diretório de instalação do Micronaut.
 * Inclua a referência `%MICRONAUT_HOME%\bin` à variável de ambiente `Path` no Windows.
 
 Para assegurar que a instalação foi feita corretamente, abra um novo terminal do Windows e:
 
-* Verifique o conteúdo da variável `MICRONAUT_HOME`, com o comando:
+* Verifique o conteúdo da variável `MICRONAUT_HOME`:
 
 ```
 echo %MICRONAUT_HOME%
@@ -94,7 +94,7 @@ Aparecerá algo assim:
 C:\micronaut
 ```
 
-* Verifique a versão do Micronaut, com o comando:
+* Verifique a versão do Micronaut:
 
 ```
 mn --version
@@ -115,7 +115,7 @@ O [Micronaut CLI](https://docs.micronaut.io/latest/guide/index.html#cli) é uma 
 
 Para criar o projeto com o Micronaut CLI, abra um terminal do Windows e:
 
-* Crie uma aplicação "Hello World" server com Java e Gradle, com o comando:
+* Crie uma aplicação "Hello World" server com Java e Gradle:
 
 ```
 mn create-app lab-micronaut
