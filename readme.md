@@ -103,7 +103,7 @@ mn --version
 Aparecerá algo assim:
 
 ```
-| Micronaut Version: 1.0.0.M2
+| Micronaut Version: 1.0.0
 | JVM Version: 1.8.0_172
 ```
 
